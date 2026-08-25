@@ -1,10 +1,5 @@
-حتماً، این نسخه کامل README.md با username به صورت taha-soltani:
 
 # 👨‍💻 Taha Soltani | طاها سلطانی
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Taha Soltani&fontSize=50&fontAlignY=35&desc=Electrical Engineering | Software Developer | Networking&descAlignY=60" />
-</p>
 
 ---
 
@@ -148,31 +143,6 @@ Designed and developed a food registration and management system for handling me
 - Communication Systems
 
 ---
-
-# 🛠️ Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,html,css,opencv,linux,git,github" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=taha-soltani&show_icons=true&theme=dark" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-soltani&layout=compact&theme=dark" />
-
-</p>
-
----
-
 # 📫 Contact
 
 **Taha Soltani**
